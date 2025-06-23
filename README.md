@@ -1,0 +1,2 @@
+# Autonomous-AI-Ops-Agent---Real-Time-Sensors-Reasoning-with-TinyLlama-LLM-for-Data-Centers
+Designed and implemented an AI-powered observability dashboard for monitoring and managing data center environments.  Integrated TinyLlama via Ollama as a local reasoning engine to automate decisions based on live sensor data.  Developed a full-stack application using React (Vite) frontend, FastAPI backend, Streamlit, and Docker. 
